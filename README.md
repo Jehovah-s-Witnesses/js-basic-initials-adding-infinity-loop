@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-initials-adding-infinity-loop
 
-## Text
+## In loop we have ```answer``` variable. Assign prompt instead of ```'stop'``` string. Check the code works, enter ```stop``` to input for stop the loop and alert result
 
 ## Criteria:
 
