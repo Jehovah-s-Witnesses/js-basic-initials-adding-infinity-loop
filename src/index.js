@@ -4,7 +4,7 @@
 const names = [];
 
 while (true) {
-  const answer = 'stop';
+  const answer = prompt('Enter your name or "stop" to finish.');
 
   if (answer === 'stop') {
     break;
